@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on a **Data Analysis Project**
 
-- 🌱 I’m currently learning **Programming & SQL**
+- 🌱 I’m currently learning **Python Programming**
+
+- 👨‍💻 I'm open to work on site 🏭 or Remotely 📡
 
 - 👯 I’m looking to collaborate on **Robotics**
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [shorturl.at/hsvCY](shorturl.at/hsvCY)
 
-- ⚡ Fun fact **I am Mechatronics Engineer**
+- ⚡ Fun fact **I am Mechatronics Engineer **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
