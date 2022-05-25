@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'm open to work on site 🏭 or Remotely 📡
 
-- 👯 I’m looking to collaborate on **Robotics**
+- 👯 I’m looking to collaborate on **Data Science or Robotics**
 
 - 🤝 I’m a Freelancer on upwork [shorturl.at/cyHNQ](shorturl.at/cyHNQ)
 
