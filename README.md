@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yahya Yusuf</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+ <h1 align="center">Hi 👋, I'm Yahya Yusuf</h1>
+<h3 align="center">A passionate Data Scientist /h3>
 
-- 🔭 I’m currently working on a **Data Analysis Project**
+- 🔭 I’m currently working on a **ChatBot Project**
 
 - 🌱 I’m currently learning **Python Programming**
 
