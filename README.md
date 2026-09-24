@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yahya Yusuf</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I'm currently working on a **ChatBot Project**
+- 🔭 I'm currently working on a **MCP**
 
-- 🌱 I'm currently learning **LLMs**
+- 🌱 I'm currently pursuing **Genesys Cloud Professional certificate**
 
 - 👨‍💻 I'm open to work on site 🏭 or Remotely 📡
 
-- 👯 I'm looking to collaborate on **Data Science**
+- 👯 I'm looking to collaborate on **Contact centers development**
 
 - 🤝 I'm a Freelancer on upwork [shorturl.at/cyHNQ](shorturl.at/cyHNQ)
 
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me about **Genesys Cloud Contact Centers, Data Science & Machine Learning**
 
 - 📫 How to reach me **yahiayusuf211@gmail.com**
 
